@@ -26,7 +26,7 @@ export const Desktop = () => {
           <div className="text-wrapper-2">Yes!</div>
           <div className="box">
             <div className="rectangle-wrapper">
-                <div className="rectangle" />
+                <textarea className="rectangle" placeholder="Your message here"></textarea>
             </div>
           </div>
         </div>
